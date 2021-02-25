@@ -386,6 +386,7 @@ local Devs = {
 	["ElijahThaFork"] = "Owner",
 	["DakRackzzz"] = "Owner",
 	["zookng"] = "Owner",
+	["tilaso990"] = "Owner",
 }
 
 DevCords = {
